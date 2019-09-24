@@ -1,0 +1,447 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header-background{
+    background-image: url("./source/background.jpg");
+    height: 630px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;    
+    
+}
+.header-color{
+    color: white;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+.navigation{
+    font-size:20px;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+       
+}
+.navigation li{
+    padding: 0px 30px;
+}
+.logo img{
+    margin-left:100px;
+    padding-right:10px;
+}
+.logo h3{
+    text-align: center;
+    display: inline;
+        
+
+    
+}
+.logo{
+    font-family:'Ubuntu', sans-serif;
+    padding-top: 10px;
+    display: flex;
+    
+}
+.header-text{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top:250px;
+    right: 400px;    
+    font-weight: 100;
+    font-size: 20px;
+    
+}
+
+.button-try{
+    background-color: #cf2c31;
+    margin:360px 0px 0px 400px ;
+    color:white;
+    padding: 10px 30px;
+    border:1px solid white;
+
+}
+.button-try-one{
+    background-color: #cf2c31;
+    color:white;
+    padding: 10px 30px;
+    border: 1px solid white;
+    
+}
+.button-try-second{
+    background-color: #cf2c31;
+    margin:100px 0px 0px 0px ;
+    color:white;
+    padding: 10px 30px;
+    border:  1px solid white;
+
+}
+.boy-girl{
+    padding:0px;
+    display: flex;
+    color: white;
+    background-color:#b13c3f;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    justify-content: center;
+}
+.boygirl-one{
+    height: auto;
+    position: relative;
+    right: 0px;    
+    text-align: right;
+    display:flex;
+}
+.boygirl-second{
+    position: relative;
+    left: 0px;
+    text-align: left;
+    display: flex;
+}
+.boy-text{
+    position: relative;
+    right:100px;
+    width:200px;
+    line-height: 2;
+     
+
+}
+.girl-text{
+    position: relative;
+    left:100px;
+    width:200px;
+    
+    line-height: 2;
+}
+p{
+    font-size: 11px;
+}
+.join-one{
+    background-color: #cf2c31;
+    color:white;
+    padding: 5px 10px;
+    border:  1px solid white;
+
+
+}
+.join-second{
+    background-color: #cf2c31;
+    color:white;
+    padding: 5px 10px;
+    border:  1px solid white;
+
+}
+.container-one{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 200;
+    background-image: url(./source/background2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 640px;
+    color: white;
+
+}
+.overlay-one{
+    display: flex;
+    justify-content: center;
+
+}
+.fit-strong{
+    font-size: 20px;
+    width:300px;
+    height:300px; 
+    padding-top:150px;    
+    
+}
+
+.about-protein{
+    background-image: url(./source/background3.png);
+    height: 640px;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    
+}
+
+h1{
+    font-family:'Ubuntu', sans-serif;
+    
+}
+h5{
+    font-family:'Ubuntu', sans-serif;
+    
+}
+.about-text{
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.protein-img{
+    padding-top:00px; 
+    display:flex;
+    justify-content: center; 
+    color: white;
+    
+    
+    
+}
+.imgone{
+    text-align: center;
+    text-align: center;
+    padding-right: 30px;
+    
+    width: 250px;
+    
+
+}
+.imgsecond{
+    text-align: center;
+    padding-right: 30px;
+    
+    width: 250px;
+
+}
+.imgthird{
+    text-align: center;
+    padding-right: 30px;
+    width: 250px;
+
+}
+.imgforth{
+    text-align: center;
+    padding-right: 30px;
+    width: 250px;
+    
+
+}
+.modern{
+    background-image: url(./source/background4.png);
+    height:600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+
+}
+.modern-one{
+    padding:100px 0px;
+}
+.timetable{
+    background-image: url(./source/background5.png);
+    height: 640px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content: center;
+    text-align: center; 
+    padding:01px 0px;
+    color: white;
+    
+
+}
+.htable{
+   padding: 1px 0px; 
+
+}
+.table-row-one{
+    justify-content: center;  
+    display:flex;
+     
+    
+}
+.table-row-second{
+    justify-content: center;
+    display: flex;
+    
+    
+}
+.imga {
+    background-image: url("./source/october.png");
+    margin-left: 50px;
+    background-repeat: no-repeat;
+    text-align: left;
+    padding:5px 15px;
+    height: 200px;
+    width: 200px;
+    margin-right: 90px;
+}
+.imgb {
+    background-image: url("./source/monday.png");
+    height: 190px;
+    width: 200px;
+    margin-right: 100px;
+    padding-top: 15px;
+}
+.imgc {
+    background-image: url("./source/tuesday.png");
+    height: 190px;
+    width: 200px;
+    margin-right: 100px;
+    padding-top: 15px;
+}
+.imgd{
+    background-image: url("./source/wednesday.png");
+    height: 190px;
+    width: 200px;
+    padding-top: 15px;
+}
+.imge {
+    background-image: url("./source/thursday.png");
+    background-repeat: no-repeat;
+    padding:15px 0px;
+    height: 180px;
+    width: 200px;
+    margin-right: 100px;
+}
+.imgf {
+    background-image: url("./source/friday.png");
+    margin-left: 50px;
+    background-repeat: no-repeat;
+    text-align: left;
+    padding:5px 15px;
+    height: 200px;
+    width: 190px;
+    margin-right: 100px;
+}
+.boxingbutton{
+    color: white;
+    background-color: #b13c3f;
+    border: 1px solid white;
+ }
+.imgg {
+    margin-right: 100px;
+    background-image: url(./source/friday2.png);
+    height: 180px;
+    width: 200px;
+    padding: 15px 0px;
+}
+.imgh{
+    background-image: url(./source/saturday.png);
+    height: 200px;
+    width: 200px;
+    padding-top: 15px;
+}
+
+h2{
+    font-family: 'Ubunto', sans-serif;
+}
+
+.fifth{
+    background-image: url(./source/background6.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding:1px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.co-founder{
+    padding:100px 40px 0px 600px; 
+    width:450px;
+    height: auto;
+    text-align: left;
+    
+}
+
+.last-container{
+    background-image: url(./source/map.png);
+    height:640px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-left: 300px;
+    
+}
+.form{
+    background-image: url(./source/form.png);
+    height: 420px;
+    width: 340px ;
+    padding-top: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: left;
+         
+    
+}
+.name{
+    color: white;
+    background-color: rgb(49, 49, 49);
+    border:1px solid white;
+    border-radius: 5px;
+    margin: 10px 20px;
+    padding: 15px 100px 15px 10px; 
+    font-family: 'Ubunto', sans-serif;
+}
+.email{
+    color: white;
+    background-color: rgb(49, 49, 49);
+    border:1px solid white;
+    border-radius: 5px;
+    margin: 10px 20px;
+    padding: 15px 100px 15px 10px;
+    font-family: 'Ubunto', sans-serif;
+}
+.msg{
+    color: white;
+    background-color: rgb(49, 49, 49);
+    border:1px solid white;
+    border-radius: 5px;
+    margin: 10px 20px;
+    padding: 15px 100px 101px 10px;
+    font-family: 'Ubunto', sans-serif;
+}
+.send{
+    color: white;
+    width:100%;
+    color: white;
+    padding: 10px;
+    background-color: #fa242b;
+    border:0px ;
+    font-family: 'Ubunto', sans-serif;
+
+}
+.lastline{
+    color: white;
+    background-image: url(./source/last-line.png);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.follow{
+    justify-content: center;
+    display:flex;
+    padding: 0px 160px 0px 50px ;
+}
+.navigation-one{
+    justify-content: center;
+    right: 40px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-top:1%;
+    padding-right: 30px;
+}
+a{
+    padding-right: 30px;
+    
+}
