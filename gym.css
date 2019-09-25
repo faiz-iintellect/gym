@@ -2,6 +2,7 @@
 
 
 body{
+    overflow-x:hidden; 
     padding: 0px;
     margin: 0px;
 }
@@ -353,6 +354,7 @@ h2{
 }
 
 .mapouter{
+    display: flex;
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
@@ -409,7 +411,7 @@ h2{
     color: white;
     width: 100%;
     color: white;
-    padding: 10px;
+    padding: 15px;
     background-color: #fa242b;
     border:0px ;
     font-family: 'Ubunto', sans-serif;
