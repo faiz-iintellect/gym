@@ -1515,7 +1515,7 @@
 
 }
 
-@media (min-width : 1024px ) and (max-width : 1366px ){
+/* @media (min-width : 1024px ) and (max-width : 1366px ){
     h1 ,h2{
         font-size: 28px;
     }
@@ -1647,7 +1647,7 @@
 
      */
 
-    .co-founder{
+    /* .co-founder{
         display: inline;       
         padding:50px 40px 0px 75px; 
         text-align: left;
@@ -1772,4 +1772,4 @@
 
 
 
-}
+} */ */
