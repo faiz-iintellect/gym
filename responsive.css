@@ -1,0 +1,1775 @@
+
+@media (min-width : 1024px) and (max-width : 1366px){
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        position: relative;
+        top:  200px;
+        right: 300px;
+        font-weight: 100;
+        font-size: 20px;
+    }
+    .logo img{
+        margin-left:50px;
+        padding-right:10px;
+    }
+    .boy-text{
+        top:20px;
+        position: relative;
+        right:40px;
+        width:200px;
+        line-height: 2;
+    }
+    .girl-text{
+        position: relative;
+        top:20px;
+        left:40px;
+        width:200px;
+        line-height: 2;
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 200;
+        background-image: url(./source/background2.png);
+        background-position: center;
+        height: auto;
+        color: white;
+    
+    }
+    .imgone{
+        text-align: center;
+        padding-right: 30px;
+        width: 200px;
+        
+    
+    }
+    .imgsecond{
+        text-align: center;
+        padding-right: 30px;
+        width: 200px;
+    
+    }
+    .imgthird{
+        text-align: center;
+        padding-right: 30px;
+        width: 200px;
+    
+    }
+    .imgforth{
+        text-align: center;
+        padding-right: 30px;
+        width: 200px;
+
+    }
+    .protein-img{
+        padding-top: 50px; 
+        color: white;
+    
+    }
+    .table-row-one{
+        justify-content: center;  
+        display:flex;
+          
+         
+    }
+    .table-row-second{
+        justify-content: center;
+        display: flex;
+         
+         
+    }
+    .imga {
+        background-image: url("./source/october.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 200px;
+        margin-right: 0px;
+    }
+    .imgb {
+        background-image: url("./source/monday.png");
+        height: 190px;
+        width: 200px;
+        margin-right: 30px;
+        padding-top: 15px;
+    }
+    .imgc {
+        background-image: url("./source/tuesday.png");
+        height: 190px;
+        width: 200px;
+        margin-right: 30px;
+        padding-top: 15px;
+    }
+    .imgd{
+        background-image: url("./source/wednesday.png");
+        height: 190px;
+        width: 200px;
+        padding-top: 15px;
+    }
+    .imge {
+        background-image: url("./source/thursday.png");
+        background-repeat: no-repeat;
+        padding:15px 0px;
+        height: 180px;
+        width: 200px;
+        margin-right: 30px;
+        margin-left: 0px;
+    }
+    .imgf {
+        background-image: url("./source/friday.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 190px;
+        margin-right: 0px;
+    }
+    
+    .imgg {
+        margin-right: 30px;
+        background-image: url(./source/friday2.png);
+        height: 180px;
+        width: 200px;
+        padding: 15px 0px;
+    }
+    .imgh{
+        background-image: url(./source/saturday.png);
+        height: 200px;
+        width: 200px;
+        padding-top: 15px;
+    }
+     
+
+}
+
+@media (min-width : 375px ) and (max-width : 812px ) {
+    h1 ,h2{
+        font-size: 10px;
+    }
+    h3, h5{
+        font-size: 8px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 12px;
+        margin-left: 100px;
+
+    }
+    .logo img{
+        width: 30px;
+        height: 30px;
+        margin-left:80px;
+        padding-right:20px;
+    }
+    .navigation{
+        font-size:10px;
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 0px 5px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: block;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: block;
+        text-align: center;
+
+                
+    }
+    .timetable{
+        background-image: url(./source/background5.png);
+        height: auto;
+        background-position: center;
+        text-align: center; 
+        padding:01px 0px;
+        color: white;
+        
+    
+    }
+    .imga {
+        background-image: url("./source/october.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    .imgb {
+        background-image: url("./source/monday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgc {
+        background-image: url("./source/tuesday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgd{
+        background-image: url("./source/wednesday.png");
+        height: 190px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .imge {
+        background-image: url("./source/thursday.png");
+        background-repeat: no-repeat;
+        padding:15px 0px;
+        height: 180px;
+        width: 180px;
+        margin-right: 7px;
+        margin-left: 0px;
+    }
+    .imgf {
+        background-image: url("./source/friday.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    
+    .imgg {
+        margin-right: 7px;
+        background-image: url(./source/friday2.png);
+        height: 180px;
+        width: 180px;
+        padding: 15px 0px;
+    }
+    .imgh{
+        background-image: url(./source/saturday.png);
+        height: 200px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .co-founder{
+        display: inline;       
+        padding:100px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:275px;
+        left: 25px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 120;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 300px;
+        padding-left:120px;
+        color: white;
+    
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:170px 550px 0px 270px ;
+        color:white;
+        padding: 10px 100px;
+        border:1px solid white;
+    
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{
+        padding-top:00px; 
+        text-align: center;
+        color: white;
+        
+    }
+    .table-row-one{
+        text-align: center;
+         
+    }
+    .table-row-second{
+        text-align: center;
+         
+         
+    }
+    li{
+        text-align: center;
+        padding-top:1%;
+        padding-right: 10px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 370px ;
+    }
+
+}
+
+
+@media (min-width : 320px ) and (max-width : 568px ) {
+    h1 ,h2{
+        font-size: 20px;
+    }
+    h3, h5{
+        font-size: 12px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 8px;
+        margin-left: 430px;
+
+    }
+    .logo img{
+        width: 25px;
+        font-size: 12px;
+        height: 25px;
+        margin-left:28px;
+        padding-right:10px;
+    }
+    .navigation{
+        font-size:10px;   
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 10px 4px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: block;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: block;
+        text-align: center;
+
+                
+    }
+    .timetable{
+        background-image: url(./source/background5.png);
+        height: auto;
+        background-position: center;
+        text-align: center;
+        background-repeat: repeat; 
+        padding:01px 0px;
+        color: white;
+        
+    
+    }
+    .imga {
+        background-image: url("./source/october.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    .imgb {
+        background-image: url("./source/monday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgc {
+        background-image: url("./source/tuesday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgd{
+        background-image: url("./source/wednesday.png");
+        height: 190px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .imge {
+        background-image: url("./source/thursday.png");
+        background-repeat: no-repeat;
+        padding:15px 0px;
+        height: 180px;
+        width: 180px;
+        margin-right: 7px;
+        margin-left: 0px;
+    }
+    .imgf {
+        background-image: url("./source/friday.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    
+    .imgg {
+        margin-right: 7px;
+        background-image: url(./source/friday2.png);
+        height: 180px;
+        width: 180px;
+        padding: 15px 0px;
+    }
+    .imgh{
+        background-image: url(./source/saturday.png);
+        height: 200px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .co-founder{
+        display: inline;       
+        padding:50px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:295px;
+        left: 1px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 300px;
+        padding-left:150px;
+        color: white;
+    
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:170px 550px 0px 170px ;
+        color:white;
+        padding: 10px 80px;
+        border:1px solid white;
+    
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{    
+        padding-left: 30px;
+        display: block;
+        text-align: center;
+        color: white;
+        
+    }
+    .table-row-one{
+        text-align: center;
+        display: block;
+        padding-left:60px; 
+         
+    }
+    .table-row-second{
+        text-align: center;
+        display: block;
+        padding-left:60px; 
+         
+         
+    }
+    li{
+        text-align: center;
+        padding-top:0px;
+        padding-right: 15px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 100px 0px 140px ;
+    }
+    .fifth{
+        background-image: url(./source/background6.png);
+        height: 500px;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+        color: white;
+        padding:1px 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .lastline{
+        color: white;
+        background-image: url(./source/last-line.png);
+        height: auto;
+        background-position: center;
+        background-repeat:repeat;
+        display: block;
+        justify-content: center;    
+    }
+
+}
+
+
+@media (min-width : 375px ) and (max-width : 667px ) {
+    h1 ,h2{
+        font-size: 20px;
+    }
+    h3, h5{
+        font-size: 12px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 8px;
+        margin-left: 430px;
+
+    }
+    .logo img{
+        width: 25px;
+        font-size: 12px;
+        height: 25px;
+        margin-left:70px;
+        margin-top: 10px;
+        padding-right:5px;
+    }
+    .navigation{
+        font-size:10px;   
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 10px 8px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: block;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: block;
+        text-align: center;
+
+                
+    }
+    .timetable{
+        background-image: url(./source/background5.png);
+        height: auto;
+        background-position: center;
+        text-align: center;
+        background-repeat: repeat; 
+        padding:01px 0px;
+        color: white;
+        
+    
+    }
+    .imga {
+        background-image: url("./source/october.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    .imgb {
+        background-image: url("./source/monday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgc {
+        background-image: url("./source/tuesday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgd{
+        background-image: url("./source/wednesday.png");
+        height: 190px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .imge {
+        background-image: url("./source/thursday.png");
+        background-repeat: no-repeat;
+        padding:15px 0px;
+        height: 180px;
+        width: 180px;
+        margin-right: 7px;
+        margin-left: 0px;
+    }
+    .imgf {
+        background-image: url("./source/friday.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    
+    .imgg {
+        margin-right: 7px;
+        background-image: url(./source/friday2.png);
+        height: 180px;
+        width: 180px;
+        padding: 15px 0px;
+    }
+    .imgh{
+        background-image: url(./source/saturday.png);
+        height: 200px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .co-founder{
+        display: inline;       
+        padding:50px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:295px;
+        left: 55px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 300px;
+        padding-left:150px;
+        color: white;
+    
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:170px 550px 0px 170px ;
+        color:white;
+        padding: 10px 80px;
+        border:1px solid white;
+    
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{    
+        padding-left: 60px;
+        display: block;
+        text-align: center;
+        color: white;
+        padding-bottom: 1%;
+        
+    }
+    .table-row-one{
+        text-align: center;
+        display: block;
+        padding-left:90px; 
+         
+    }
+    .table-row-second{
+        text-align: center;
+        display: block;
+        padding-left:90px; 
+         
+         
+    }
+    li{
+        text-align: center;
+        padding-top:0px;
+        padding-right: 25px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 150px 0px 140px ;
+    }
+    .fifth{
+        background-image: url(./source/background6.png);
+        height: 500px;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+        color: white;
+        padding:1px 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .lastline{
+        color: white;
+        background-image: url(./source/last-line.png);
+        height: auto;
+        background-position: center;
+        background-repeat:repeat;
+        display: block;
+        justify-content: center;    
+    }
+
+}
+
+@media (min-width : 414px ) and (max-width : 736px ) {
+    h1 ,h2{
+        font-size: 20px;
+    }
+    h3, h5{
+        font-size: 12px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 8px;
+        margin-left: 430px;
+
+    }
+    .logo img{
+        width: 25px;
+        font-size: 12px;
+        height: 25px;
+        margin-left:80px;
+        margin-top: 10px;
+        padding-right:5px;
+    }
+    .navigation{
+        font-size:10px;   
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 10px 8px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;   
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: block;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: block;
+        text-align: center;
+
+                
+    }
+    .timetable{
+        background-image: url(./source/background5.png);
+        height: auto;
+        background-position: center;
+        text-align: center;
+        background-repeat: repeat; 
+        padding:01px 0px;
+        color: white;
+        
+    
+    }
+    .imga {
+        background-image: url("./source/october.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    .imgb {
+        background-image: url("./source/monday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgc {
+        background-image: url("./source/tuesday.png");
+        height: 190px;
+        width: 180px;
+        margin-right: 7px;
+        padding-top: 15px;
+    }
+    .imgd{
+        background-image: url("./source/wednesday.png");
+        height: 190px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .imge {
+        background-image: url("./source/thursday.png");
+        background-repeat: no-repeat;
+        padding:15px 0px;
+        height: 180px;
+        width: 180px;
+        margin-right: 7px;
+        margin-left: 0px;
+    }
+    .imgf {
+        background-image: url("./source/friday.png");
+        margin-left: 0px;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding:5px 15px;
+        height: 200px;
+        width: 160px;
+        margin-right: 7px;
+    }
+    
+    .imgg {
+        margin-right: 7px;
+        background-image: url(./source/friday2.png);
+        height: 180px;
+        width: 180px;
+        padding: 15px 0px;
+    }
+    .imgh{
+        background-image: url(./source/saturday.png);
+        height: 200px;
+        width: 180px;
+        padding-top: 15px;
+    }
+    .co-founder{
+        display: inline;       
+        padding:50px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:295px;
+        left: 100px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 300px;
+        padding-left:100px;
+        color: white;
+    
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:170px 450px 0px 170px ;
+        color:white;
+        padding: 10px 80px;
+        border:1px solid white;
+    
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{    
+        padding-left: 70px;
+        display: block;
+        text-align: center;
+        color: white;
+        padding-bottom: 1%;
+        
+    }
+    .table-row-one{
+        text-align: center;
+        display: block;
+        padding-left:110px; 
+         
+    }
+    .table-row-second{
+        text-align: center;
+        display: block;
+        padding-left:110px; 
+         
+         
+    }
+    li{
+        text-align: center;
+        padding:10px 0px;
+        padding-right: 35px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 150px 0px 140px ;
+    }
+    .fifth{
+        background-image: url(./source/background6.png);
+        height: 500px;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+        color: white;
+        padding:1px 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .lastline{
+        color: white;
+        background-image: url(./source/last-line.png);
+        height: auto;
+        background-position: center;
+        background-repeat:repeat;
+        display: block;
+        justify-content: center;    
+    }
+
+}
+
+
+@media (min-width : 768px ) and (max-width : 1024px ){
+    h1 ,h2{
+        font-size: 30px;
+    }
+    h3, h5{
+        font-size: 14px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 8px;
+        margin-left: 430px;
+
+    }
+    .logo img{
+        width: 25px;
+        font-size: 12px;
+        height: 25px;
+        margin-left:80px;
+        margin-top: 10px;
+        padding-right:5px;
+    }
+    .navigation{
+        font-size:10px;   
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 10px 8px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;   
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: block;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: block;
+        text-align: center;
+
+                
+    }
+    .fit-strong{
+        font-size: 20px;
+        width:300px;
+        height:300px; 
+        padding-top:20px;    
+        padding-left: 0px;
+        
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:170px 250px 0px 250px ;
+        color:white;
+        padding: 10px 100px;
+        border:1px solid white;
+    
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{    
+
+        padding-left: 70px;
+        display: flex;
+        text-align: center;
+        color: white;
+        padding-bottom: 1%;
+    }
+    .imgone{
+        text-align: center;
+        text-align: center;
+        padding-right: 10px;
+        width: 200px;
+        
+    }
+    .imgsecond{
+        text-align: center;
+        padding-right: 20px;
+        width: 200px;
+    
+    }
+    .imgthird{
+        text-align: center;
+        padding-right: 20px;
+        width: 200px;
+    
+    }
+    .imgforth{
+        text-align: center;
+        margin-right: 30px;
+        width: 200px;
+        
+    }
+/* 
+
+
+
+
+
+     */
+
+    .co-founder{
+        display: inline;       
+        padding:50px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:150px;
+        left: 450px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 300px;
+        padding-left:100px;
+        color: white;
+    
+    }
+
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+
+    .table-row-one{
+        text-align: center;
+        display: flex;
+        padding-left:5px; 
+         
+    }
+    .table-row-second{
+        text-align: center;
+        display: flex;
+        padding-left:5px; 
+         
+         
+    }
+    li{
+        text-align: center;
+        padding:10px 0px;
+        padding-right: 35px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 150px 0px 140px ;
+    }
+    .fifth{
+        background-image: url(./source/background6.png);
+        height: 500px;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+        color: white;
+        padding:1px 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .lastline{
+        color: white;
+        background-image: url(./source/last-line.png);
+        height: auto;
+        background-position: center;
+        background-repeat:repeat;
+        display: block;
+        justify-content: center;    
+    }
+
+
+
+}
+
+@media (min-width : 1024px ) and (max-width : 1366px ){
+    h1 ,h2{
+        font-size: 28px;
+    }
+    h3, h5{
+        font-size: 14px;
+    }
+    .header-text {
+        color: white;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        font-size: 14px;
+        margin-left: 200px;
+
+    }
+    .logo img{
+        width: 25px;
+        font-size: 12px;
+        height: 25px;
+        margin-left:80px;
+        margin-top: 10px;
+        padding-right:15px;
+    }
+    .logo{
+        margin-top:10px;
+    }
+    .navigation{
+        font-size:20px;   
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: top;
+              
+    }
+    .navigation li{
+        padding: 10px 10px;
+    }
+    .boy-text{
+        margin-left:180px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;
+    }
+    .girl-text{
+        margin-right:200px; 
+        padding:10px 0px;
+        width: auto;
+        line-height: 1.5;   
+    }
+    
+    .boy-girl{
+        display: block;
+        color: white;
+        background-color:#b13c3f;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+            
+    }
+    .boygirl-one{
+        text-align: center;
+        display: flex;
+        width: auto;
+        
+    }
+    .boygirl-second{
+        display: flex;
+        text-align: center;
+
+                
+    }
+    .fit-strong{
+        font-size: 20px;
+        width:300px;
+        height:500px; 
+        padding-top:20px;    
+        padding-left: 0px;
+        
+    }
+    .button-try{
+        background-color: #cf2c31;
+        margin:270px 130px 0px 250px ;
+        color:white;
+        padding: 10px 80px;
+        border:1px solid white;
+    
+    }
+    .about-protein{
+        background-image: url(./source/background3.png);
+        height: auto;
+        background-repeat: repeat;
+               
+                
+    }
+    .protein-img{    
+        padding-left: 70px;
+        display: flex;
+        text-align: center;
+        color: white;
+        padding-bottom: 1%;
+    }
+    .imgone{
+        text-align: center;
+        text-align: center;
+        padding-right: 10px;
+        width: 200px;
+        
+    }
+    .imgsecond{
+        text-align: center;
+        padding-right: 20px;
+        width: 200px;
+    
+    }
+    .imgthird{
+        text-align: center;
+        padding-right: 20px;
+        width: 200px;
+    
+    }
+    .imgforth{
+        text-align: center;
+        margin-right: 30px;
+        width: 200px;
+        
+    }
+/* 
+
+
+
+
+
+     */
+
+    .co-founder{
+        display: inline;       
+        padding:50px 40px 0px 75px; 
+        text-align: left;
+        
+    }
+    .form{
+        position: absolute;
+        top:150px;
+        left: 450px;;
+        background-image: url(./source/form.png);
+        height: 340px;
+        width: 320px;
+        background-position: top, left;
+        background-repeat: no-repeat;
+        
+           
+    }
+    .name{
+        text-align: left;
+        margin-top:75px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .email{
+        margin-top: 10px;
+        padding: 3% 20% 3% 5%;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        
+        font-family: 'Ubunto', sans-serif;
+    }
+    .msg{
+        margin-top: 10px;
+        padding: 3% 20% 30% 5% ;
+        color: white;
+        background-color: rgb(49, 49, 49);
+        border:1px solid white;
+        border-radius: 5px;
+        font-family: 'Ubunto', sans-serif;
+    }
+    .send{
+        margin-top: 15px;
+        color: white;
+        width: 100%;
+        color: white;
+        padding: 15px;
+        background-color: #fa242b;
+        border:0px ;
+        font-family: 'Ubunto', sans-serif;
+    
+    }
+    .container-one{
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 100;
+        background-image: url(./source/background2.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 500px;
+        padding-left:100px;
+        color: white;
+    
+    }
+
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 0px 0px 0px ;
+    }
+
+    .table-row-one{
+        text-align: center;
+        display: flex;
+        padding-left:5px; 
+         
+    }
+    .table-row-second{
+        text-align: center;
+        display: flex;
+        padding-left:5px; 
+        padding-bottom: 20px;
+         
+    }
+    li{
+        text-align: center;
+        padding:10px 0px;
+        padding-right: 35px;
+    }
+    .follow{
+        justify-content: center;
+        display:flex;
+        padding: 0px 150px 0px 140px ;
+    }
+    .fifth{
+        background-image: url(./source/background6.png);
+        height: 500px;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: right;
+        color: white;
+        padding:1px 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .lastline{
+        color: white;
+        background-image: url(./source/last-line.png);
+        height: auto;
+        background-position: center;
+        background-repeat:repeat;
+        display: block;
+        justify-content: center;    
+    }
+
+
+
+}
